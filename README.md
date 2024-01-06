@@ -1,7 +1,7 @@
 # Big Iron 🌵🔮🏹
 
 ## 🚀 Project Overview
-Welcome to the "Big Iron" mod for Skyrim, a custom-designed adventure that immerses players in a gripping narrative inspired by classic Western tales. The player, known as The Arizona Ranger, is tasked with a daring mission to recover a precious amulet pilfered by the cunning thief, Texas Red, from the victim Louisiana Blue.
+Welcome to the Big Iron mod for Skyrim, a custom-designed adventure that immerses players in a gripping narrative inspired by classic Western tales. The player, known as The Arizona Ranger, is tasked with a daring mission to recover a precious amulet pilfered by the cunning thief, Texas Red, from the victim Louisiana Blue.
 
 ## 📌 Key Features
 - **Captivating Western-Themed Story**: The quest features a compelling storyline set in the world of Skyrim, drawing inspiration from Western folklore.
