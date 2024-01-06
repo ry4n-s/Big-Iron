@@ -1,5 +1,3 @@
-;BEGIN FRAGMENT CODE - Do not edit anything between this and the end comment
-;NEXT FRAGMENT INDEX 10
 Scriptname QF_GSQ01_01000D62 Extends Quest Hidden
 
 ;BEGIN ALIAS PROPERTY Louisiana
@@ -58,8 +56,6 @@ Game.GetPlayer().AddItem(Gold001, Alias_Amulet.GetReference().GetGoldValue() * 2
 ;END CODE
 EndFunction
 ;END FRAGMENT
-
-;END FRAGMENT CODE - Do not edit anything between this and the begin comment
 
 MiscObject Property Gold001  Auto  
 ObjectReference Property MarjerDungeon  Auto  
